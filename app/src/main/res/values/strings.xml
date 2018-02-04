@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Torch</string>
+    <string name="torch_on">Rid me of Darkness</string>
+    <string name="torch_off">I prefer the Dark</string>
 </resources>
